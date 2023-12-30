@@ -2,4 +2,6 @@ ADOFAI_Tiledreaker는 ADOFAI custom level 파일(.ADOFAI)을 불러왔을때 행
 ADOFAI_Tiledreaker converts ADOFAI custom level files (.ADOFAI) so that planets and tiles are not visible when loaded.
 
 Supported languages.
+지원 언어.
+
 한국어(korean)
